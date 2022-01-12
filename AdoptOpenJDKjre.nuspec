@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AdoptOpenJDKjre</id>
+    <version>16.0.1.901</version>
+    <title>[Deprecated] AdoptOpenJDK jre16 hotspot 16.0.1.9</title>
+    <authors>AdoptOpenJDK</authors>
+    <owners>JohanJanssen</owners>
+    <licenseUrl>https://github.com/AdoptOpenJDK/openjdk-jdk16/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://adoptopenjdk.net/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package is deprecated as AdoptOpenJDK [moved](https://blog.adoptopenjdk.net/2021/03/transition-to-eclipse-an-update/) to the Eclipse Foundation. We advice to use the new Temurin Chocolatey packages. This AdoptOpenJDK Chocolatey package now installs Temurin instead of AdoptOpenJDK, to make sure everyone gets an up to date version of Java.
+      
+      By default the installation directory is placed under `%Programfiles%\Eclipse Adoptium\` 
+    </description>
+    <summary>AdoptOpenJDK provides prebuilt OpenJDK build binaries. This one uses OpenJDK_HotSpot.</summary>
+    <tags>openjdk java jvm</tags>
+    <packageSourceUrl>https://github.com/johanjanssen/AdoptOpenJDKChocolateyPackages</packageSourceUrl>
+    <dependencies>
+      <dependency id="Temurinjre" version="(17,)" />
+    </dependencies>
+  </metadata>
+</package>
