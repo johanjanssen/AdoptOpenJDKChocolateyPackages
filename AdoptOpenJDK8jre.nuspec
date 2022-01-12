@@ -3,7 +3,7 @@
   <metadata>
     <id>AdoptOpenJDK8jre</id>
     <version>8.292.10.901</version>
-    <title>[Deprecated] AdoptOpenJDK jre8 hotspot 8.292.10</title>
+    <title>[Deprecated] AdoptOpenJDK jre8 hotspot</title>
     <authors>AdoptOpenJDK</authors>
     <owners>JohanJanssen</owners>
     <licenseUrl>https://github.com/AdoptOpenJDK/openjdk-jdk8u/blob/master/LICENSE</licenseUrl>

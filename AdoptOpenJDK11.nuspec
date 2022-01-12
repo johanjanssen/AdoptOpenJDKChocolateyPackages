@@ -3,7 +3,7 @@
   <metadata>
     <id>AdoptOpenJDK11</id>
     <version>11.0.11.901</version>
-    <title>[Deprecated] AdoptOpenJDK jdk11 hotspot 11.0.11.9</title>
+    <title>[Deprecated] AdoptOpenJDK jdk11 hotspot</title>
     <authors>AdoptOpenJDK</authors>
     <owners>JohanJanssen</owners>
     <licenseUrl>https://github.com/AdoptOpenJDK/openjdk-jdk11u/blob/master/LICENSE</licenseUrl>
