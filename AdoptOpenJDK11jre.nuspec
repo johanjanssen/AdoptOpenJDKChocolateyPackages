@@ -20,4 +20,5 @@
       <dependency id="Temurin11jre" version="(11,12)"/>
     </dependencies>
   </metadata>
+  <files />
 </package>

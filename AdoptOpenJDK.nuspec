@@ -20,4 +20,5 @@
       <dependency id="Temurin" version="(17,)" />
     </dependencies>
   </metadata>
+  <files />
 </package>
